@@ -14,6 +14,8 @@ https://www.youtube.com/watch?v=0lrbid0ODG4
 ## Learning resources:
 * [Kubernetes and Virtual Kubelet in a nutshell](https://dev.to/adipolak/kubernetes-and-virtual-kubelet-in-a-nutshell-gn4)
 * [Netflix implementation of virtual kubelet](https://www.youtube.com/watch?v=eFnDwwckrKU)
+* [Virtual Kubelet (Git Repo)](https://github.com/virtual-kubelet/virtual-kubelet)
+* [Virtual Kubelet Turns 1.0 — Deep Dive](https://medium.com/microsoftazure/virtual-kubelet-turns-1-0-deep-dive-b64056061b18)
 
 ## Queries and Discussion:
 1. Is virtual kublet is  integrated as a built-in type in Azure, what options are there for other providers (AWS,GCloud)? 
